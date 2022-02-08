@@ -1,0 +1,16 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\obj\Debug\net5.0\User_Input.csproj.AssemblyReference.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\obj\Debug\net5.0\User_Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\obj\Debug\net5.0\User_Input.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\obj\Debug\net5.0\User_Input.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\obj\Debug\net5.0\User_Input.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\bin\Debug\net5.0\User_Input.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\bin\Debug\net5.0\User_Input.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\bin\Debug\net5.0\User_Input.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\bin\Debug\net5.0\User_Input.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\bin\Debug\net5.0\User_Input.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\bin\Debug\net5.0\ref\User_Input.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\bin\Debug\net5.0\User_Input.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\obj\Debug\net5.0\User_Input.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\obj\Debug\net5.0\ref\User_Input.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\obj\Debug\net5.0\User_Input.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\User_Input\User_Input\obj\Debug\net5.0\User_Input.genruntimeconfig.cache
